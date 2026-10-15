@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Ricardo Lugaresi
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 """Print Scale: elegir el tamaño de impresión y ver qué deja de salir con tu boquilla."""
 import numpy as np
 

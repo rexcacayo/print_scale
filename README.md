@@ -16,4 +16,4 @@ Escala por alto, lado mayor, X, Y, porcentaje, escala de modelismo 1:N o «que q
 
 ## Licencia
 
-GPL-3.0-or-later. Gratis para usar, modificar y compartir; si redistribuyes una versión modificada, publica también su código.
+GPL-3.0-or-later (ver [LICENSE](LICENSE)). Gratis para usar, modificar y compartir; si redistribuyes una versión modificada, publica también su código. Es la licencia que exige extensions.blender.org.
