@@ -1,6 +1,6 @@
 # Print Scale
 
-> **Versión actual: 1.0.0** (Blender 4.2 – 5.x) → instalar `version_1.0.0/dist/print_scale-1.0.0.zip`
+> **Versión actual: 1.1.0** (Blender 4.2 – 5.x) → instalar `version_1.1.0/dist/print_scale-1.1.0.zip`
 
 Complemento de Blender para elegir el **tamaño de impresión** y ver, antes de imprimir, qué zonas dejan de salir con tu boquilla.
 
